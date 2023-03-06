@@ -79,8 +79,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script>
  $('#onebutton').click(function(){
-   $('#EmailInput').val('EEIT12902@gmail.com');
-   $('#PasswordInpunt').val('EEIT12902EEIT12902');
+   $('#EmailInput').val('');
+   $('#PasswordInpunt').val('EEIT1');
  });
 </script>
     
